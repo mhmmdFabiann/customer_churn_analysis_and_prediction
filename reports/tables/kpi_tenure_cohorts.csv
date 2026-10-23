@@ -1,0 +1,5 @@
+tenure_cohort,total_customers,churned_customers,churn_rate_pct,avg_monthly_charges
+0-12 Bulan (Baru),2186,1037,47.44,56.1
+13-24 Bulan,1024,294,28.71,61.36
+25-48 Bulan,1594,325,20.39,65.93
+49-72 Bulan (Loyal),2239,213,9.51,73.95

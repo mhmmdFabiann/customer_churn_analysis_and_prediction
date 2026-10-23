@@ -1,0 +1,2 @@
+Model,accuracy,precision,recall,f1,roc_auc,pr_auc
+GA-XGBoost (Peng et al. 2023 with SMOTEENN),0.7424,0.5093,0.8075,0.6246,0.8444,0.6481
